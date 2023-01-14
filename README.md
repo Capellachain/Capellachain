@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://github.com/Capellachain/Capellachain/blob/main/CapellaBanner.png" alt="banner" >
-</p>
+<h1 align="center">
+  <br>
+  <a href="https://twitter.com/capellachain"><img src="https://pbs.twimg.com/profile_images/1613937113338384389/_tmkAGzY_400x400.jpg" width="200" style="border-radius:50%"></a>
+  <br>
+  Capella
+  <br>
+</h1>
 
 <p align="center">
 <a title="capella GitHub followers " href="https://github.com/capellachain" ><img src="https://img.shields.io/github/followers/capellachain?style=social" alt="capellachain GitHub followers"></a>
