@@ -2,7 +2,7 @@
   <br>
   <a href="https://twitter.com/capellachain"><img src="https://pbs.twimg.com/profile_images/1613937113338384389/_tmkAGzY_400x400.jpg" width="200" style="border-radius:50%"></a>
   <br>
-  Capella
+  Capella Chain
   <br>
 </h1>
 
